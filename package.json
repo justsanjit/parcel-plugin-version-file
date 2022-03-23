@@ -1,0 +1,14 @@
+{
+  "name": "parcel-plugin-version-file",
+  "version": "1.0.0",
+  "description": "Generate a file with your package name, version and build date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjit Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-version-file": "^0.1.6"
+  }
+}
